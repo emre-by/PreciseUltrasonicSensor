@@ -1,0 +1,14 @@
+Breadboard scheme:
+abcde --> left
+fghij --> right
+
+Ultrasonic sensor:
+- Vcc : left  1 (3v3)
+- Trig: left  6 (GPIO17)
+- Echo: right 6 (GPIO18)
+- Gnd : left 13 (GND)
+
+Humidity sensor:
+- Vcc: left 9 (3v3)
+- Sig: left 8 (GPIO22)
+- Gnd: left 5 (GND)
